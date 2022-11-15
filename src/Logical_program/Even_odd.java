@@ -10,10 +10,11 @@ public class Even_odd {
 		//to check whether num is even or odd
 		if(num%2==0) {
 			System.out.println("given num is even");
-			
+			System.out.println("given no is null");
 		}
 		else {
 			System.out.println("given num is odd");
+			
 		}
 	}
 
